@@ -1,11 +1,11 @@
 AUTHOR = 'Anuj Pradeep'
 SITENAME = 'My Cool Site'
-SITEURL = ''
+SITEURL = 'https://anujpradeep.github.io'
 
 PATH = 'content'
 
 TIMEZONE = 'America/Edmonton'
-
+THEME = 'templates/mytheme'
 DEFAULT_LANG = 'en'
 
 # Feed generation is usually not desired when developing

@@ -23,9 +23,15 @@
     <h1>About</h1>
     
 
-    <p>This is my about page.</p>
-<p><b> This is how to bold </b></p>
-<p><i> This is how to bold </i></p>
+    <h2>This is my about page for <del>CMPUT 403</del> CMPUT 404 Lab 4</h2>
+<p><strong>This is how to bold</strong></p>
+<p><em>This is how to use italic</em></p>
+<p><strong><em>Below is the html code for the base.html</em></strong></p>
+<p><code>{% extends "!simple/base.html" %}</code></p>
+<p><code>{% block head %}</code></p>
+<p><code>{{ super() }}</code></p>
+<p><code>&lt;link rel="stylesheet" type="text/css" href="{{ SITEURL }}/theme/style.css" /&gt;</code></p>
+<p><code>{% endblock %}</code></p>
 
         <footer id="contentinfo" class="body">
                 <address id="about" class="vcard body">

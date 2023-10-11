@@ -1,0 +1,10 @@
+!---------------------------------Question 1---------------------------------!
+The main advantages for Static Site generators like Pelican performance and simplicity.
+Static pages are much faster than dynamic ones, as they don't have a lot of server side processing. As the pages are HTML, CSS and Javascript, it can be cached and served faster. 
+It is also simple to create and maintain these sites as mentioned above, just HTML, CSS, Javascript and can be created using markdown or other markup languages.
+
+One of the disadvantages for Static Site generators are the build times for larger static sites with multiple pages.
+Another would be as there isn't any dynamic components, the user experience could be neglected as its not very user intractable. The sites can also not access things like databases.
+
+!---------------------------------Question 2---------------------------------!
+https://github.com/anujpradeep/anujpradeep.github.io
